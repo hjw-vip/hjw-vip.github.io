@@ -15,6 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+![Visitor Count](https://profile-counter.glitch.me/hjw-vip/count.svg)
 <span class='anchor' id='about-me'></span>
 # Hi, welcome to my academic homepage! 👋
 > PS: My personal Blog: [小H的个人空间](http://hjwvip.top)
