@@ -39,64 +39,66 @@ Looking forward to connecting! 😊
 
 
 # 🔥 News
-- *2025.03*: 🥇 **校级一等奖** - 同济大学第十届“卓越杯”暨第十九届“挑战杯”全国大学生课外学术科技作品竞赛
-- *2024.12*: 🎖️ **国家奖学金** - 2023-2024学年度
-- *2024.12*: 🎖️ **优秀学生 (5%)** - 2023-2024学年度
-- *2024.12*: 🏆 **创新应用奖 (4/58)** - 中国高校计算机大赛——人工智能创意赛全国总决赛
-- *2024.12*: 🥉 **全国三等奖** - 第六届全球校园人工智能算法精英大赛全国总决赛
-- *2024.12*: 🥉 **全国三等奖** - 中国高校计算机大赛——人工智能创意赛全国总决赛
-- *2024.12*: 🥈 **省级二等奖** - 024年高教社杯全国大学生数学建模竞赛
-- *2024.12*: 🥉 **省级三等奖** - 第十六届全国大学生数学竞赛（非数学类）
-- *2024.12*: 🥉 **市级三等奖** - 第十六届上海市大学生数学竞赛（非数学类）
+- *2025.04*: 🎉 **arXiv Preprint** - [Token-Aware Coding Flow: A Study with Nano Surge in Reasoning Model](https://arxiv.org/abs/2504.15989)  
+- *2025.03*: 🥇 **First Prize** - Tongji University’s 10th "Excellence Cup" and 19th "Challenge Cup" National College Student Extracurricular Academic and Technological Works Competition
+- *2024.12*: 🎖️ **National Scholarship** - 2023-2024 Academic Year
+- *2024.12*: 🎖️ **Outstanding Student (Top 5%)** - 2023-2024 Academic Year
+- *2024.12*: 🏆 **Innovation Application Award (4/58)** - National Final of the China College Computer Competition - AI Innovation Contest
+- *2024.12*: 🥉 **Third Prize Nationally** - 6th Global Campus AI Algorithm Elite Competition National Final
+- *2024.12*: 🥉 **Third Prize Nationally** - China College Computer Competition - AI Innovation Contest National Final
+- *2024.08*: 🥇 **National First Prize** - 26th China Robot and AI Competition National Final
+- *2024.08*: 🥈 **National Second Prize** - China College Computer Competition - AIGC Innovation Contest National Final
+- *2024.04*: 📝 **Patent** - 一种基于触摸屏的自选笔画汉字设计系统 Public Number: **CN118428315A**
+- *2024.02*: 💻 **Software Copyright** - 《辞海古卷》 Registration Number: **2024SR0233072**
+- *2023.12*: 📝 **Patent** - 一种形神兼备的书法评分方法 Public Number: **CN117690151A**
 
 # 📝 Publications 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">arXiv Preprint 2025</div>
-      <img src='images/CodingFlow_01.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    [Token-Aware Coding Flow: A Study with Nano Surge in Reasoning Model](https://arxiv.org/abs/2504.15989)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv Preprint</div><img src='images/CodingFlow_01.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-    **Junwei Hu**, Weicheng Zheng, Yihan Liu, Yan Liu
+[**Token-Aware Coding Flow: A Study with Nano Surge in Reasoning Model**](https://arxiv.org/abs/2504.15989) \\
+**Junwei Hu**, Weicheng Zheng, Yihan Liu, Yan Liu\textsuperscript{*}
 
-    - This paper explores the impact of code smells on token consumption during model inference in large language models (LLMs) and introduces the "Token-Aware Coding Flow" method. We show that code refactoring and prompt engineering strategies can significantly reduce token consumption, improving reasoning efficiency and code generation quality.
-  </div>
+[**Paper**](https://arxiv.org/abs/2504.15989)
+  - This work investigates the impact of code smells on token consumption during reasoning.
+  - Introduces strategies like code refactoring and prompt engineering to optimize token usage.
+</div>
 </div>
 
 
+
 # 🎖 Honors and Awards
-- *2025.03*: 🥇 **校级一等奖** - 同济大学第十届“卓越杯”暨第十九届“挑战杯”全国大学生课外学术科技作品竞赛
-- *2024.12*: 🎖️ **国家奖学金** - 2023-2024学年度
-- *2024.12*: 🎖️ **优秀学生 (5%)** - 2023-2024学年度
-- *2024.12*: 🏆 **创新应用奖 (4/58)** - 中国高校计算机大赛——人工智能创意赛全国总决赛
-- *2024.12*: 🥉 **全国三等奖** - 第六届全球校园人工智能算法精英大赛全国总决赛
-- *2024.12*: 🥉 **全国三等奖** - 中国高校计算机大赛——人工智能创意赛全国总决赛
-- *2024.12*: 🥈 **省级二等奖** - 024年高教社杯全国大学生数学建模竞赛
-- *2024.12*: 🥉 **省级三等奖** - 第十六届全国大学生数学竞赛（非数学类）
-- *2024.12*: 🥉 **市级三等奖** - 第十六届上海市大学生数学竞赛（非数学类）
-- *2024.11*: 🥇 **区域一等奖** - 第六届全球校园人工智能算法精英大赛
-- *2024.10*: 🥈 **区域二等奖** - 中国高校计算机大赛——人工智能创意赛
-- *2024.09*: 🥇 **校级一等奖** - 2024同济大学统计建模大赛
-- *2024.07*: 🥇 **全国一等奖** - 第二十六届中国机器人及人工智能大赛全国总决赛
-- *2024.07*: 🥈 **全国二等奖** - 中国高校计算机大赛——AIGC创新赛全国总决赛
-- *2024.07*: 🎗️ **复赛入围** - 中国高校计算机大赛——智能交互创新赛
-- *2024.06*: 🥇 **省级一等奖** - 第二十六届中国机器人及人工智能大赛
-- *2024.06*: 🥇 **校级金奖** - 第九届中国国际“互联网+”大学生创新创业大赛同济校内赛
-- *2024.06*: 🥇 **校级金奖** - 中国国际大学生创新大赛（校赛）
-- *2024.06*: 🥉 **成功参与奖** - 美国大学生数学建模竞赛
-- *2024.04*: 🎗️ **结题** - 国家级创新创业项目——“形神兼备”的楷书辅助评价系统
-- *2023.12*: 🥈 **校级二等奖** - 第九届同济大学“使命与担当”竞赛决赛
-- *2023.08*: 🥈 **省级二等奖** - 第八届“汇创青春”上海大学生文化创意作品展示活动
-- *2023.06*: 🥇 **校级金奖** - 第九届中国国际“互联网+”大学生创新创业大赛同济校内赛
-- *2023.04*: 🎗️ **结题** - 校级创创新创业项目——土木工程计算机视觉与深度学习共享社区
-- *2023.01*: 🥉 **省级三等奖** - 第十四届全国大学生数学竞赛（非数学类）
-- *2022.12*: 🎖️ **校级优秀学生三等奖学金** - 2021-2022学年度
-- *2022.12*: 🥉 **市级三等奖** - 第十四届上海市大学生数学竞赛（非数学类）
-- *2022.12*: 🎗️ **复赛入围** - 第九届同济大学“使命与担当”竞赛
+- *2024.12*: 🎖️ **National Scholarship**
+- *2024.12*: 🎖️ **Outstanding Student (Top 5%)**
+- *2022.12*: 🎖️ **Third-Class Scholarship**
+- *2023.12*: 🎖️ **Third-Class Scholarship**
+- *2024.12*: 🏆 **Innovation Application Award (4/58)** - National Final of the China College Computer Competition - AI Innovation Contest
+- *2024.08*: 🥇 **National First Prize** - 26th China Robot and AI Competition National Final
+- *2024.08*: 🥈 **National Second Prize** - China College Computer Competition - AIGC Innovation Contest National Final
+- *2024.12*: 🥉 **Third Prize Nationally** - 6th Global Campus AI Algorithm Elite Competition National Final
+- *2024.12*: 🥉 **Third Prize Nationally** - China College Computer Competition - AI Innovation Contest National Final
+- *2024.11*: 🥇 **Regional First Prize** - 6th Global Campus AI Algorithm Elite Competition
+- *2024.10*: 🥈 **Regional Second Prize** - China College Computer Competition - AI Innovation Contest
+- *2024.06*: 🥇 **Provincial First Prize** - 26th China Robot and AI Competition
+- *2023.08*: 🥈 **Provincial Second Prize** - 8th "Creative Youth" Shanghai College Student Cultural and Creative Works Exhibition
+- *2024.12*: 🥈 **Provincial Second Prize** - Higher Education Press Cup National College Student Mathematical Modeling Competition
+- *2023.01*: 🥉 **Provincial Third Prize** - 14th National College Student Mathematics Competition (Non-Mathematics Major)
+- *2024.12*: 🥉 **Provincial Third Prize** - 16th National College Student Mathematics Competition (Non-Mathematics Major)
+- *2024.07*: 🥉 **Provincial Third Prize** - 10th National College Student Statistical Modeling Competition
+- *2022.12*: 🥉 **City Third Prize** - 14th Shanghai College Student Mathematics Competition (Non-Mathematics Major)
+- *2024.12*: 🥉 **City Third Prize** - 16th Shanghai College Student Mathematics Competition (Non-Mathematics Major)
+- *2024.09*: 🥇 **School First Prize** - 2024 Tongji University Statistical Modeling Competition
+- *2023.06*: 🥇 **Gold Medal** - China International College Student Innovation Competition (School-level)
+- *2024.06*: 🥇 **Gold Medal** - 9th China International "Internet+" College Student Innovation and Entrepreneurship Competition (Tongji University Internal Competition)
+- *2025.03*: 🥇 **First Prize** - Tongji University’s 10th "Excellence Cup" and 19th "Challenge Cup" National College Student Extracurricular Academic and Technological Works Competition
+- *2023.12*: 🥈 **Second Prize** - 9th Tongji University "Mission and Responsibility" Competition Final
+- *2024.07*: 🎗️ **Semi-finalist** - China College Computer Competition - Smart Interactive Innovation Contest
+- *2024.06*: 🥉 **Successful Participation Award** - US College Student Mathematical Modeling Competition
+- *2024.11*: 🎗️ **Semi-finalist** - 10th Tongji University "Mission and Responsibility" Competition
+- *2023.04*: **Completed Project** - School-level Innovation and Entrepreneurship Project - Civil Engineering Computer Vision and Deep Learning Shared Community
+- *2024.04*: **Completed Project** - National Innovation and Entrepreneurship Project - "Calligraphy Evaluation System Combining Shape and Spirit"
+
 
 # 📖 Educations
 - *2022.09 - 2026.06 (now)*, **Bachelor's Degree in Software Engineering**, School of Computer Science and Technology, Tongji University, Shanghai, China.
