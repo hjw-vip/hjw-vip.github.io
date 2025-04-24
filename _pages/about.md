@@ -58,7 +58,7 @@ Looking forward to connecting! 😊
 <div class='paper-box-text' markdown="1">
 
 [**Token-Aware Coding Flow: A Study with Nano Surge in Reasoning Model**](https://arxiv.org/abs/2504.15989) \\
-**Junwei Hu**, Weicheng Zheng, Yihan Liu, Yan Liu\textsuperscript{*}
+**Junwei Hu**, Weicheng Zheng, Yihan Liu, Yan Liu*
 
 [**Paper**](https://arxiv.org/abs/2504.15989)
   - This work investigates the impact of code smells on token consumption during reasoning.
