@@ -16,11 +16,12 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# Hi, welcome to my homepage! 👋
+# Hi, welcome to my academic homepage! 👋
+> PS: My personal Blog: [小H的个人空间](http://hjwvip.top)
 
 I'm **Samuel Hu** (CN name: **胡峻玮**), a third-year undergraduate student majoring in **Software Engineering** at the **School of Computer Science and Technology** (School of Software Engineering), **Tongji University**. 
 
-During my time at Tongji, I have participated in several research projects. I worked on a project led by Lecturer [**Tang Jianfeng**](https://cs.tongji.edu.cn/info/1064/2776.htm) at Tongji University, which focused on the diffusion mechanism of user interests on recommendation algorithm platforms. I have also been involved in Professor [**Ye**](https://cs.tongji.edu.cn/info/1122/3256.htm)'s lab at Tongji University, conducting research on AI-based Chinese character visualization technology. Additionally, I am currently part of Associate Professor [**Dong**](https://math.tongji.edu.cn/info/1255/9703.htm)'s research group, where I am exploring the application of reinforcement learning in financial investments. Meanwhile, I am currently working in Associate Professor [**Yan Liu**](https://cs.tongji.edu.cn/info/1063/2763.htm)'s lab, focusing on large code models and AI4SE.
+During my time at Tongji, I have participated in several research projects. I worked on a project led by Lecturer [**Tang**](https://cs.tongji.edu.cn/info/1064/2776.htm) at Tongji University, which focused on the diffusion mechanism of user interests on recommendation algorithm platforms. I have also been involved in Professor [**Ye**](https://cs.tongji.edu.cn/info/1122/3256.htm)'s lab at Tongji University, conducting research on AI-based Chinese character visualization technology. Additionally, I am currently part of Associate Professor [**Dong**](https://math.tongji.edu.cn/info/1255/9703.htm)'s research group, where I am exploring the application of reinforcement learning in financial investments. Meanwhile, I am currently working in Associate Professor [**Yan Liu**](https://cs.tongji.edu.cn/info/1063/2763.htm)'s lab, focusing on large code models and AI4SE.
 
 ## Research Areas 📚
 
