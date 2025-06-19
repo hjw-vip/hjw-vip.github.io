@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋Hi, welcome to my homepage!  You are the ![Visitor Count](https://profile-counter.glitch.me/hjw-vip/count.svg) visitor
-> PS: My personal Blog: [小H的个人空间](http://hjwvip.top)
+> PS: My personal Blog: [Samuel Hu’s Blog](http://hjw-aihub.cn)
 
 I'm **Samuel Hu** (CN name: **胡峻玮**), a third-year undergraduate student majoring in **Software Engineering** at the **School of Computer Science and Technology** (School of Software Engineering), **Tongji University**. 
 
