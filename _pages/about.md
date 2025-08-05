@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👋Hi, welcome to my homepage!  You are the ![Visitor Count](https://profile-counter.glitch.me/hjw-vip/count.svg) visitor
+# 👋Hi, welcome to my homepage!
 > PS: My personal Blog: [Samuel Hu’s Blog](http://hjw-aihub.cn)
 
 I'm **Samuel Hu** (CN name: **胡峻玮**), a third-year undergraduate student majoring in **Software Engineering** at the **School of Computer Science and Technology** (School of Software Engineering), **Tongji University**. 
@@ -41,6 +41,8 @@ Looking forward to connecting! 😊
 
 
 # 🔥 News
+- *2025.06*: 🥈 **Provincial Second Prize** - The 8th China (Shanghai) International Invention & Innovation Expo
+- *2025.06*: 🥉 **Provincial Third Prize** - 2025 Higher Education Institution Invention Selection Contest 
 - *2025.04*: 🎉 **arXiv Preprint** - [Token-Aware Coding Flow: A Study with Nano Surge in Reasoning Model](https://arxiv.org/abs/2504.15989)  
 - *2025.03*: 🥇 **First Prize** - Tongji University’s 10th "Excellence Cup" and 19th "Challenge Cup" National College Student Extracurricular Academic and Technological Works Competition
 - *2024.12*: 🎖️ **National Scholarship** - 2023-2024 Academic Year
@@ -50,9 +52,6 @@ Looking forward to connecting! 😊
 - *2024.12*: 🥉 **Third Prize Nationally** - China College Computer Competition - AI Innovation Contest National Final
 - *2024.08*: 🥇 **National First Prize** - 26th China Robot and AI Competition National Final
 - *2024.08*: 🥈 **National Second Prize** - China College Computer Competition - AIGC Innovation Contest National Final
-- *2024.04*: 📝 **Patent** - 一种基于触摸屏的自选笔画汉字设计系统 Public Number: **CN118428315A**
-- *2024.02*: 💻 **Software Copyright** - 《辞海古卷》 Registration Number: **2024SR0233072**
-- *2023.12*: 📝 **Patent** - 一种形神兼备的书法评分方法 Public Number: **CN117690151A**
 
 # 📝 Publications 
 
@@ -85,6 +84,8 @@ Looking forward to connecting! 😊
 - *2024.06*: 🥇 **Provincial First Prize** - 26th China Robot and AI Competition
 - *2023.08*: 🥈 **Provincial Second Prize** - 8th "Creative Youth" Shanghai College Student Cultural and Creative Works Exhibition
 - *2024.12*: 🥈 **Provincial Second Prize** - Higher Education Press Cup National College Student Mathematical Modeling Competition
+- *2025.06*: 🥈 **Provincial Second Prize** - The 8th China (Shanghai) International Invention & Innovation Expo
+- *2025.06*: 🥉 **Provincial Third Prize** - 2025 Higher Education Institution Invention Selection Contest 
 - *2023.01*: 🥉 **Provincial Third Prize** - 14th National College Student Mathematics Competition (Non-Mathematics Major)
 - *2024.12*: 🥉 **Provincial Third Prize** - 16th National College Student Mathematics Competition (Non-Mathematics Major)
 - *2024.07*: 🥉 **Provincial Third Prize** - 10th National College Student Statistical Modeling Competition
