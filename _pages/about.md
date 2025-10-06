@@ -112,5 +112,5 @@ Looking forward to connecting! 😊
 - *2024.10 - 2025.05*, [Research on Large Code Models and AI4SE](https://cs.tongji.edu.cn/info/1063/2763.htm), Associate Professor [**Yan Liu**](https://cs.tongji.edu.cn/info/1063/2763.htm), Tongji University, China.
 - *2024.06 - 2024.08*, [Diffusion Mechanism of User Interests on Recommendation Algorithm Platforms](https://cs.tongji.edu.cn/info/1064/2776.htm), Lecturer [**Tang Jianfeng**](https://cs.tongji.edu.cn/info/1064/2776.htm), Tongji University, China.
 - *2023.04 - 2024.04*, [Reinforcement Learning in Financial Investments](https://math.tongji.edu.cn/info/1255/9703.htm), Associate Professor [**Dong**](https://math.tongji.edu.cn/info/1255/9703.htm), Tongji University, China.
-- *2022.04 - 2024.9*, [AI-Based Chinese Character Visualization](https://cs.tongji.edu.cn/info/1122/3256.htm), Professor [**Ye**](https://cs.tongji.edu.cn/info/1122/3256.htm), Tongji University, China.
+- *2022.04 - 2024.09*, [AI-Based Chinese Character Visualization](https://cs.tongji.edu.cn/info/1122/3256.htm), Professor [**Ye**](https://cs.tongji.edu.cn/info/1122/3256.htm), Tongji University, China.
 
